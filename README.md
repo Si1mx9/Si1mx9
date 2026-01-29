@@ -11,13 +11,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-![GitHub Contributions Wave](https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-
-<!-- Contributions sous forme de galaxie -->
-[![Star History Chart](https://api.star-history.com/svg?repos=TON_USERNAME/REPO1,TON_USERNAME/REPO2&type=Timeline)](https://star-history.com/)
-<!--
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=date&legend=top-left)](https://www.star-history.com/#star-history/star-history&type=date&legend=top-left)
 
 ## 🧩 Mon année en puzzle
 
