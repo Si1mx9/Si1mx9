@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Seif Elislam 💫 </br> 
+🧠 Computer Sciences Student</br>
+🌏 Data Engineer & Web Technologies</br>
+🪐 Design | Website | App | Ai | Data </br>
+⏳ Make every things degital that's my pation </br>    
+
+
+
+
+
+
 
 <!--
 **Si1mx9/Si1mx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
