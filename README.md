@@ -1,6 +1,6 @@
 <div align="center">
 
-#  WELCOME TO My Profile ! 
+#  Welcome To My Profile ! 
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Issaadi+Seif+Elislam;Data+Engineer;Web+Developer;AI+Enthusiast;Making+Everything+Digital" alt="Typing SVG" />
